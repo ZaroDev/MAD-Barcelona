@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "id": "ITEM_0009",
+      "name": "Anti radiation helmet",
+      "description": "",
+      "tags": ["helmet"],
+      "stackable": false,
+      "equippable": true,
+      "effects": [{"amount":1,"stat":"defense","type":"stat_boost"}],
+      "usable": false
+    },
+    {
       "id": "ITEM_0001",
       "name": "Basic helmet",
       "description": "A light helmet manufactured in Spain",
@@ -26,6 +36,16 @@
       "usable": false
     },
     {
+      "id": "ITEM_0004",
+      "name": "Leather legs armour",
+      "description": "A light armour not very resistant made in Spain",
+      "tags": ["legs"],
+      "stackable": false,
+      "equippable": true,
+      "effects": [{"amount":1,"stat":"defense","type":"stat_boost"}],
+      "usable": false
+    },
+    {
       "id": "ITEM_0003",
       "name": "Leather torso armour",
       "description": "A light armour not very resistant made in Spain",
@@ -36,10 +56,40 @@
       "usable": false
     },
     {
-      "id": "ITEM_0004",
-      "name": "Leather legs armour",
-      "description": "A light armour not very resistant made in Spain",
+      "id": "ITEM_0006",
+      "name": "Steel arms armour",
+      "description": "",
+      "tags": ["arms"],
+      "stackable": false,
+      "equippable": true,
+      "effects": [{"amount":1,"stat":"defense","type":"stat_boost"}],
+      "usable": false
+    },
+    {
+      "id": "ITEM_0005",
+      "name": "Steel helmet",
+      "description": "A helmet imported from the USSR",
+      "tags": ["helmet"],
+      "stackable": false,
+      "equippable": true,
+      "effects": [{"amount":1,"stat":"defense","type":"stat_boost"}],
+      "usable": false
+    },
+    {
+      "id": "ITEM_0008",
+      "name": "Steel legs armour",
+      "description": "",
       "tags": ["legs"],
+      "stackable": false,
+      "equippable": true,
+      "effects": [{"amount":1,"stat":"defense","type":"stat_boost"}],
+      "usable": false
+    },
+    {
+      "id": "ITEM_0007",
+      "name": "Steel torso armour",
+      "description": "",
+      "tags": ["torso"],
       "stackable": false,
       "equippable": true,
       "effects": [{"amount":1,"stat":"defense","type":"stat_boost"}],
