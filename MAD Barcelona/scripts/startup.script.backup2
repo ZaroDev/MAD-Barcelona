@@ -1,2 +1,0 @@
-load_map("overworld", coord[0, 0, 0], SOUTH);
-add_item_to_container(player, "ITEM_0015");

@@ -1,1 +1,0 @@
-apply_status_effect("STATUS_0001", tile[0, 0, 0], 5);
